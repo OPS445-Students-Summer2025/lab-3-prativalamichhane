@@ -21,4 +21,5 @@ if __name__ == '__main__':   # This section also referred to as a "main block"
     print(give_list())
     print(give_first_item())
     print(give_first_and_last_item())
-    print(give_second_and_third_item())
+    print(give_second_and_third_item()
+          )
