@@ -8,5 +8,6 @@ def free_space():
                             capture_output=True,
                             text=True)
     return result.stdout.strip()
+
 if __name__ == '__main__':
     print(free_space())
